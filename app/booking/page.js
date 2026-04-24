@@ -1,5 +1,4 @@
 import React from 'react';
-import './BookingForm.css'; // Assuming you will create a CSS file for styling
 
 const BookingForm = () => {
   const handleSubmit = (event) => {
